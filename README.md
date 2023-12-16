@@ -6,7 +6,7 @@ O xadrez é um jogo de tabuleiro, sendo também considerado como um esporte de g
 
 ## Projeto
 
-Este projeto foi desenvolvido com base no curso do professor Nélio Alves, referência no desenvolvimento com linguagem Java, o curso se chama: Java COMPLETO 2023 Programação Orientada a Objetos + Projetos da plataforma Udemy. Esta aplicação consiste em um jogo simples de xadrez desenvolvido em Java para ser executado através de um terminal GitBash. O jogo possui tratamento de erros, programação defensiva (contra bugs), jogadas especiais do xadrez (promoção, roque e en passant) e previsão de movimento das peças.
+Este projeto foi desenvolvido com base no curso do professor Nélio Alves, referência no desenvolvimento com linguagem Java, o curso se chama: **Java COMPLETO 2023 Programação Orientada a Objetos + Projetos** da plataforma Udemy. Esta aplicação consiste em um jogo simples de xadrez desenvolvido em Java para ser executado através de um terminal GitBash. O jogo possui tratamento de erros, programação defensiva (contra bugs), jogadas especiais do xadrez (promoção, roque e en passant) e previsão de movimento das peças.
 
 ## Tecnologias Utilizadas
 
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido com:
 
 ## Requisitos
 
-- JDK 11 ou superior.
+- JDK 17 ou superior.
 - Git Bash instalado.
 
 ## Como posso jogar?
