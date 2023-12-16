@@ -26,12 +26,12 @@ Este projeto foi desenvolvido com:
 - O jogo possui sistema de Check, CheckMate, e jogadas especiais do mesmo modo que é possível jogar um xadrez fisicamente, portanto, divirta-se!
 
 **Identificação das peças:** 
-- Pawn (Peão): P
-- Rook (Torre): R
-- Knight (Cavalo): N
-- Bishop (Bispo): B
-- Queen (Rainha): Q
-- King (Rei): K
+- P: Pawn (Peão)
+- R: Rook (Torre)
+- N: Knight (Cavalo)
+- B: Bishop (Bispo)
+- Q: Queen (Rainha)
+- K: King (Rei)
 
 ## Requisitos
 
