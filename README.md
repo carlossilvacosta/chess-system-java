@@ -25,13 +25,13 @@ Este projeto foi desenvolvido com:
 - Target, seguindo a mesma lógica, é o Destino, ou seja, o local para o qual o jogador tem o desejo de mover a peça.
 - O jogo possui sistema de Check, CheckMate, e jogadas especiais do mesmo modo que é possível jogar um xadrez fisicamente, portanto, divirta-se!
 
-**Peças:** 
-- Pawn (Peão);
-- Rook (Torre);
-- Knight (Cavalo);
-- Bishop (Bispo);
-- Queen (Rainha);
-- King (Rei).
+**Identificação das peças:** 
+- Pawn (Peão): P
+- Rook (Torre): R
+- Knight (Cavalo): N
+- Bishop (Bispo): B
+- Queen (Rainha): Q
+- King (Rei): K
 
 ## Requisitos
 
