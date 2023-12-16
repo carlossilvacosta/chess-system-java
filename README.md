@@ -15,8 +15,8 @@ Este projeto foi desenvolvido com:
 
 ## Instruções
 
-- A mecânica do jogo é simples, o tabuleiro por inteiro é indentificado por linhas e colunas.
-- linhas (1, 2, 3, 4, 5, 6, 7, 8) / colunas (a, b, c, d, e, f, g, h).
+**A mecânica do jogo é simples:** 
+- O tabuleiro por inteiro é indentificado por linhas (1, 2, 3, 4, 5, 6, 7, 8) e colunas (a, b, c, d, e, f, g, h).
 - Para escolher uma peça é necessário selecionar primeiramente a coluna e logo em seguida (sem espaços) selecionar a linha, exemplo: 'c2'.
 - Em Captured Pieces o jogo armazena e apresenta as peças capturadas de ambos jogadores com as devidas identificações.
 - O Turn exibe o turno (rodada) em que o jogo está.
